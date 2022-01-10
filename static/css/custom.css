@@ -1,0 +1,7 @@
+footer.site-footer {
+    opacity: 0.4;
+}
+
+footer.site-footer::before {
+    display: none !important;
+}
