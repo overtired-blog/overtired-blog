@@ -1,7 +1,7 @@
 ---
 title: "Third"
+author: "Sleepy"
 date: 2022-02-11T00:08:50Z
-image: "img/amy-elting-OopPIi_A428-unsplash.jpg"
 draft: false
 ---
 Do you ever feel like you can _feel_ the Internet? Through your arms and out your fingers, down kilometers of cables and switches and cables again out into the cities and the seas? Or not quite the world - even today when the Internet sees and it hears and it claims it stops still short that final hop into _the world proper_. And I don't think that's just my old-fashioned brain using old-fashioned thoughts to draw a ring fence around what I still think of as offline. But I'm not sure how you'd tell.
@@ -13,7 +13,3 @@ But this website sits perched sadly atop its own peculiar tower, imprisoned amid
 Also the italics look horrible - what is this font?
 
 Anyway, it's nice to write. And I think it feels nice to unfurl what's written out of the window, thin as it is. Even if it's not likely spotted - _there_ is better than not.
-
-&mdash; O
-
-Cover image by [Amy Elting](https://unsplash.com/@amyames?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/telephone-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
